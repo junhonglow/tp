@@ -86,11 +86,18 @@
         "adding-a-task": "Adding a task",
         "deleting-a-task": "Deleting a task",
         "sorting-tasks-2": "Sorting Tasks",
+        "saving-data": "Saving data",
         "appendix-effort": "Appendix: Effort",
         "main-difficulty-building-user-calendar": "Main Difficulty: Building User Calendar",
         "other-difficulty-contact-calendar": "Other Difficulty: Contact Calendar",
         "other-difficulty-task-manager-event-list": "Other Difficulty: Task Manager/Event List",
-        "achievements": "Achievements:"
+        "achievements": "Achievements:",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
+        "better-confirmation-for-cleareventscommand": "Better Confirmation for ClearEventsCommand",
+        "more-ways-to-sort-tasks": "More Ways to Sort Tasks",
+        "allow-user-to-view-beyond-the-current-week-restriction-for-the-calendar": "Allow user to view beyond the current week restriction for the calendar",
+        "allow-users-to-compare-calendars-with-contacts-beyond-the-current-week": "Allow users to compare calendars with contacts beyond the current week",
+        "allow-users-to-import-ics-format-files": "Allow users to import .ics format files"
       },
       "headingKeywords": {}
     },
